@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "email": "piya@gmail.com",
+      "name": "Piya",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "farida",
+      "email": "farida@gmail.com",
+      "password": "farida123",
+      "id": 2
+    },
+    {
+      "name": "farida",
+      "email": "farida@gmail.com",
+      "password": "farida123",
+      "id": 3
+    },
+    {
+      "name": "farah",
+      "email": "farah@gmail.com",
+      "password": "farah123",
+      "id": 4
+    },
+    {
+      "name": "farhan",
+      "email": "farhan@gmail.com",
+      "password": "farhan123",
+      "id": 5
+    },
+    {
+      "name": "fahim",
+      "email": "fahim@gmail.com",
+      "password": "fahim123",
+      "id": 6
+    },
+    {
+      "name": "hanif",
+      "email": "hanif@gmail.com",
+      "password": "hanif123",
+      "id": 7
+    },
+    {
+      "name": "sdfs",
+      "email": "sgfsf",
+      "password": "gsg",
+      "id": 8
+    },
+    {
+      "email": "piya@gmail.com",
+      "name": "Piya",
+      "password": "abc@123",
+      "id": 9
+    },
+    {
+      "name": "munia",
+      "email": "munia@gmail.com",
+      "password": "munia123",
+      "id": 10
+    }
+  ],
+  "resturants": [
+    {
+      "name": "Dominos",
+      "contact": 111111,
+      "address": "Banani-23",
+      "id": 2
+    },
+    {
+      "id": 4,
+      "name": "Pizza Burg",
+      "contact": 333333,
+      "address": "Mirpur"
+    },
+    {
+      "id": 5,
+      "name": "Kacchi Bhai",
+      "contact": 444444,
+      "address": "Dhanmondi"
+    },
+    {
+      "name": "Abul mamar hotel",
+      "contact": 666666,
+      "address": "Uttara-10",
+      "id": 6
+    },
+    {
+      "name": "Hurfey",
+      "contact": "777777",
+      "address": "Banani-11",
+      "id": 7
+    },
+    {
+      "name": "Chillox",
+      "contact": "888888",
+      "address": "gulshan-2",
+      "id": 8
+    }
+  ]
+}
